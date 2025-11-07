@@ -37,6 +37,3 @@ It’s ideal for **administrative dashboards**, **ranking systems**, or **public
 - **Database** (MySQL / SQLite or other defined in the backend)  
 
 ---
-
-## 🧩 Project Structure
-
