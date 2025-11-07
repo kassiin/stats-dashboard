@@ -1,5 +1,6 @@
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/dbd127bf-5f58-42c1-8910-fe822618a260" />
-# 🎮 Player Statistics Dashboard
+
+## 🎮 Player Statistics Dashboard
 
 A modern and interactive dashboard designed to display **Minecraft player statistics**, built with a focus on **elegant design**, **responsiveness**, and **Node.js API integration**.  
 The project provides a clean and intuitive interface to visualize real-time data such as **kills, deaths, and KDR (Kill/Death Ratio)**.
